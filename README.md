@@ -1,4 +1,4 @@
-![Alt text](https://github.com/elizabeth-alcid/moovie_cow/blob/main/Watcha-in-the-mood-for-9-27-2025.png)
+![Alt text](demo.png)
 
 'Moovie Cow' is a Python script that when ran, prompts the user for a movie title. Once the user types in their movie and hits the 'GO' button, the script will open a new window 
 in the web browser and open the movie on whichever streaming service it's available on. The main script's functionality relies on the Watchmode API (https://api.watchmode.com/)
